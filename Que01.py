@@ -11,8 +11,8 @@ else:
     department = "BCA"
     semester = "Third"
 
-    print("Student profile card")
-    print("Student name:",name)
-    print("Student USN",usn)
-    print("Student Department:",department)
-    print("Student semester:", semester)
+print("Student profile card")
+print("Student name:",name)
+print("Student USN",usn)
+print("Student Department:",department)
+print("Student semester:", semester)
